@@ -44,9 +44,9 @@ Passionate about creating technology that **enhances human connections** rather 
 
 <div align="center">
   
-[![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandro-Moreno&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=donleandro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Moreno&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donleandro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
