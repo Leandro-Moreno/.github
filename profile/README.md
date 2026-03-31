@@ -1,6 +1,6 @@
 # Leandro Moreno
 
-Building **[shiko.vet](https://shiko.vet)** — a veterinary platform that connects pet owners with clinics through scheduling, directory search, and multi-channel notifications.
+Building **[shiko.vet](https://shiko.vet)** - a veterinary platform that connects pet owners with clinics through scheduling, directory search, and multi-channel notifications.
 
 ### Stack
 
